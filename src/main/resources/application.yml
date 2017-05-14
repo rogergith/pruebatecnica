@@ -1,0 +1,17 @@
+server:
+  port: 8980  #configurar numero de puerto
+  
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/pruebatecnicadb
+    username: roger
+    password: empresa
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update #comprueba con cada restart del server si los modelos corresponden con las tablas, si no, hace el update
+      naming:
+        strategy: org.hibernate.cfg.ImprovedNamingStrategy #dialecto para la consulta
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
