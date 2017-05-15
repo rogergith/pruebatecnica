@@ -6,14 +6,14 @@
 
 	Usamos las seguientes tecnologias:
 
-	-Capa persistencia
-		+MySQL
-	-Capa Servidor
-		+SpringBoot
-		+Swagger
+	- Capa persistencia
+		+ MySQL
+	- Capa Servidor
+		+ SpringBoot
+		+ Swagger
 		+Json Web Token
-	-Capa fron
-		+AngularJS
+	- Capa fron
+		+ AngularJS
 
 
 
