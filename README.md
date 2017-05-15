@@ -2,7 +2,7 @@
 
 
 - DESCRIPCION
-	Este proyecto trata de un APIRest para autenticacion protegido con Json Web Token + Swagger para documentar la API.
+	- Este proyecto trata de un APIRest para autenticacion protegido con Json Web Token + Swagger para documentar la API.
 
 	Usamos las seguientes tecnologias:
 
