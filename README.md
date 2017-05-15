@@ -12,7 +12,7 @@
 		+ SpringBoot
 		+ Swagger
 		+Json Web Token
-	- Capa fron
+	- Capa presentacion
 		+ AngularJS
 
 
