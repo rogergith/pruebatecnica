@@ -1,0 +1,11 @@
+commit b265374202af9666aa01b26227d3bc1f996cb26b
+Author: Roger Araque <raismaelr@gmail.com>
+Date:   Mon May 15 05:02:10 2017 -0400
+
+    app lista sin el swagger ui
+
+commit 9fdf8625c260fd0ad60d05ae9d660960faad2259
+Author: Roger Araque <raismaelr@gmail.com>
+Date:   Sun May 14 13:27:31 2017 -0400
+
+    inicio
