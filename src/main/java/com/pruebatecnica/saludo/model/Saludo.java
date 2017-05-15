@@ -12,26 +12,18 @@ public class Saludo implements Serializable {
 	
 	public Saludo(){}
 
-	
-
 	public Saludo(String saludo) {
 		super();
 		this.saludo = saludo;
 	}
 
-
-
 	public String getSaludo() {
 		return saludo;
 	}
 
-
-
 	public void setSaludo(String saludo) {
 		this.saludo = saludo;
 	}
-
-
 
 	@Override
 	public String toString() {
