@@ -1,4 +1,4 @@
-package com.pruebatecnica.security.entity;
+package com.pruebatecnica.model.entity;
 
 import java.io.Serializable;
 import java.util.List;

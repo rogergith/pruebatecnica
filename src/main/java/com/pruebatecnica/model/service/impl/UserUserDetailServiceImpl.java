@@ -1,4 +1,4 @@
-package com.pruebatecnica.security.service.impl;
+package com.pruebatecnica.model.service.impl;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -15,9 +15,9 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import com.pruebatecnica.security.entity.Role;
-import com.pruebatecnica.security.entity.User;
-import com.pruebatecnica.security.repository.UserRepository;
+import com.pruebatecnica.model.entity.Role;
+import com.pruebatecnica.model.entity.User;
+import com.pruebatecnica.model.repository.UserRepository;
 
 @Service("UserUserDetailServiceImpl")
 public class UserUserDetailServiceImpl implements UserDetailsService, Serializable {

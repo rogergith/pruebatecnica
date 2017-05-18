@@ -88,6 +88,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 			//deshabilitar el almacenamiento en caché de página
 			http.headers().cacheControl();
 			
+	
 	}
 	
 	
